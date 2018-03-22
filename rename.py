@@ -2,7 +2,6 @@ import os
 import sys
 
 input = sys.argv[1]
-output = sys.argv[2]
 filecount = 1
 
 #批次修改檔名
